@@ -1,2 +1,2 @@
-# C++ mini game
+# C++ and processing mini game
  
