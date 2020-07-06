@@ -1,7 +1,7 @@
-<b>chess c++ (cmd)</b>
+<h1>chess c++ (cmd)</h1>
 
-lang: C++
+<h1>lang: C++<h1>
 
-TODO:
+<h1>TODO:<h1>
 
-castling PMR
+- castling PMR
