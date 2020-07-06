@@ -1,7 +1,7 @@
 #chess c++ (cmd)
 
-#lang: C++
+lang: C++
 
-#TODO:
+TODO:
 
-#castling PMR
+castling PMR
